@@ -4,4 +4,8 @@
 # Ignore all the data folder
 **/data
 
+# Remove the upcoming courses
+**/02*
+**/03*
+**/04*
 

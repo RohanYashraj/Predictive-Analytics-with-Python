@@ -1,5 +1,5 @@
-# Ignore .csv files eerywhere
-*.csv
+# Ignore .csv files everywhere
+/Week 3/*.csv
 
 # Ignore all the data folder
 **/data

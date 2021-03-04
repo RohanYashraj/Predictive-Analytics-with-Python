@@ -8,3 +8,6 @@
 **/02*
 **/03*
 **/04*
+
+# Remove all files with . extensions
+.*

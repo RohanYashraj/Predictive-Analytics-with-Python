@@ -5,7 +5,9 @@
 **/data
 
 # Remove the upcoming courses
-**/02*
-**/03*
-**/04*
+**/0*
+
+# !**/00*
+# !**/01*
+
 
